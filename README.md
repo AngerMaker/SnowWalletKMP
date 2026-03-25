@@ -45,3 +45,6 @@ Este projeto faz parte do meu portfólio pessoal como desenvolvedor e explora o 
 5. Para rodar no Desktop: Execute a task do Gradle desktopRun ou selecione a configuração correspondente na IDE.
 
 Desenvolvido com dedicação por [Pedro Zanini](https://www.linkedin.com/in/pedro-zanini).
+
+![Screenshot_20260325_154227_One UI Home](https://github.com/user-attachments/assets/7f59d231-2d5f-4d5f-81e0-e7315b61e596)
+
