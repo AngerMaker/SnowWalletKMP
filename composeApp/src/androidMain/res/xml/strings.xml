@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controle Suas Contas</string>
+    <string name="add_income_widget_description">Adicionar uma nova receita</string>
+    <string name="add_expense_widget_description">Adicionar uma nova despesa</string>
+    <string name="add_income">Adicionar Receita</string>
+    <string name="add_expense">Adicionar Despesa</string>
+</resources>
