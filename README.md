@@ -46,13 +46,22 @@ Este projeto faz parte do meu portfólio pessoal como desenvolvedor e explora o 
 
 Desenvolvido com dedicação por [Pedro Zanini](https://www.linkedin.com/in/pedro-zanini).
 
-![Screenshot_20260325_154157_Snow Wallet](https://github.com/user-attachments/assets/bfb14faf-88b9-42a2-a2ae-503174ec095f)
-![Screenshot_20260325_154150_Snow Wallet](https://github.com/user-attachments/assets/00e4bf61-3b93-42e9-a451-1c96df93f96d)
-![Screenshot_20260325_154122_Snow Wallet](https://github.com/user-attachments/assets/3e7cfc24-d72a-418d-a1dd-c2a26b8e65fd)
-![Screenshot_20260325_154113_Snow Wallet](https://github.com/user-attachments/assets/fe35aee3-affa-4679-98b8-864c694bf9e1)
-![Screenshot_20260325_154053_Snow Wallet](https://github.com/user-attachments/assets/348decf2-f2d9-4160-afd1-6d9adbdbbf1e)
-![Screenshot_20260325_154045_Snow Wallet](https://github.com/user-attachments/assets/ef374d5f-c461-4630-ad66-52bc49a19384)
 ![Screenshot_20260325_154028_Snow Wallet](https://github.com/user-attachments/assets/bd3a1bf2-c6f3-42b8-8ae3-3218c8ac682d)
-![Screens![Screenshot_20260325_154215_Snow Wallet](https://github.com/user-attachments/assets/808f276a-3eae-4dcc-8d17-4df83dce7ce2)
-hot_20260325_154227_One UI Home](https://github.com/user-attachments/assets/7f59d231-2d5f-4d5f-81e0-e7315b61e596)
+
+![Screenshot_20260325_154215_Snow Wallet](https://github.com/user-attachments/assets/808f276a-3eae-4dcc-8d17-4df83dce7ce2)
+
+![Screenshot_20260325_154157_Snow Wallet](https://github.com/user-attachments/assets/bfb14faf-88b9-42a2-a2ae-503174ec095f)
+
+![Screenshot_20260325_154150_Snow Wallet](https://github.com/user-attachments/assets/00e4bf61-3b93-42e9-a451-1c96df93f96d)
+
+![Screenshot_20260325_154122_Snow Wallet](https://github.com/user-attachments/assets/3e7cfc24-d72a-418d-a1dd-c2a26b8e65fd)
+
+![Screenshot_20260325_154113_Snow Wallet](https://github.com/user-attachments/assets/fe35aee3-affa-4679-98b8-864c694bf9e1)
+
+![Screenshot_20260325_154053_Snow Wallet](https://github.com/user-attachments/assets/348decf2-f2d9-4160-afd1-6d9adbdbbf1e)
+
+![Screenshot_20260325_154045_Snow Wallet](https://github.com/user-attachments/assets/ef374d5f-c461-4630-ad66-52bc49a19384)
+
+![Screenshot_20260325_154227_One UI Home](https://github.com/user-attachments/assets/b66f656e-343b-437d-8452-5e6de91e3831)
+
 
